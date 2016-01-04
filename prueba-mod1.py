@@ -1,4 +1,5 @@
-# version en rama MASTER
+# Pruebas entorno Kivy
+
 from kivy.app import App
 from kivy.uix.floatlayout import FloatLayout
 from kivy.uix.gridlayout import GridLayout
